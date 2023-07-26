@@ -41,3 +41,4 @@ if (tuoi >= 16) {
 } else {
   document.write ('khong du tuoi di tu')
 }
+console.log (tuoi)
